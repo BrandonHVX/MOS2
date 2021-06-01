@@ -16,13 +16,10 @@ const IndexPage = () => (
         <div className="row h-100">
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
-              <h1 className="mb-5">
-                New Age is an gatsby starter for app landing page that will help
-                you beautifully showcase your new mobile app, or anything else!
-              </h1>
+              <h1 className="mb-5"></h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
-                  Start Now for Free!
+                  BUY NOW!
                 </a>
               </Scroll>
             </div>
@@ -70,10 +67,7 @@ const IndexPage = () => (
     <section className="features" id="features">
       <div className="container">
         <div className="section-heading text-center">
-          <h2>Unlimited Features, Unlimited Fun</h2>
-          <p className="text-muted">
-            Check out what you can do with this app theme!
-          </p>
+          <p className="text-muted"></p>
           <hr />
         </div>
         <div className="row">
@@ -96,20 +90,14 @@ const IndexPage = () => (
                   <div className="feature-item">
                     <i className="icon-screen-smartphone text-primary"></i>
                     <h3>CALIFORNIA 2021 LINEUP</h3>
-                    <p className="text-muted">
-                      Ready to use HTML/CSS device mockups, no Photoshop
-                      required!
-                    </p>
+                    <p className="text-muted"></p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Flexible Use</h3>
-                    <p className="text-muted">
-                      Put an image, video, animation, or anything else in the
-                      screen!
-                    </p>
+
+                    <p className="text-muted"></p>
                   </div>
                 </div>
               </div>
@@ -117,21 +105,15 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-present text-primary"></i>
-                    <h3>Free to Use</h3>
-                    <p className="text-muted">
-                      As always, this theme is free to download and use for any
-                      purpose!
-                    </p>
+
+                    <p className="text-muted"></p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
-                    <p className="text-muted">
-                      Since this theme is MIT licensed, you can use it
-                      commercially!
-                    </p>
+
+                    <p className="text-muted"></p>
                   </div>
                 </div>
               </div>

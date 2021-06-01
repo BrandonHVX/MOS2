@@ -65,13 +65,12 @@ export default class Intro extends Component {
           />
 
           <div className="container h-100">
-            <div className="row h-100">
+            <div className="row h-100 ">
               <div className="col my-auto">
                 <div className="header-content mx-auto">
-                  <h1 className="mb-5">
-                    <Image />
-                    <Countdown />
-                  </h1>
+                  <Image />
+                  <Countdown />
+
                   <Scroll type="id" element="download">
                     <a href="#download" className="btn btn-outline btn-xl">
                       Start Now for Free!

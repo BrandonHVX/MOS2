@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 
 export default function Footer() {
   return (
     <footer>
       <div className="container">
-        <p>&copy; Gatsby Starter New Age 2019. All Rights Reserved.</p>
+        <p>&copy; MAN OF STL 2021. All Rights Reserved.</p>
         <ul className="list-inline">
           <li className="list-inline-item">
             <a href="/#">Privacy</a>
@@ -18,5 +18,5 @@ export default function Footer() {
         </ul>
       </div>
     </footer>
-  );
+  )
 }

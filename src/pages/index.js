@@ -73,7 +73,7 @@ export default class Intro extends Component {
 
                   <Scroll type="id" element="download">
                     <a href="#download" className="btn btn-outline btn-xl">
-                      Start Now for Free!
+                      BUY TICKETS NOW!
                     </a>
                   </Scroll>
                 </div>
